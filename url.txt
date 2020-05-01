@@ -21,8 +21,6 @@
 *://anohino-topic.com/*
 *://anohito.xyz/*
 *://anond.hatelabo.jp/*
-*://anond.hatelabo.jp/*
-*://anttest.warotamaker.com/*
 *://anttest.warotamaker.com/*
 *://aoiro5.com/*
 *://aokiin.com/*
@@ -42,7 +40,6 @@
 *://az-knowledge.com/*
 *://azukimama.com/*
 *://b-and-s.info/*
-*://b.hatena.ne.jp/*
 *://b.hatena.ne.jp/*
 *://bad-labo.com/*
 *://badvugum.com/*
@@ -70,7 +67,6 @@
 *://changcoroom.com/*
 *://chekko-8692.com/*
 *://chenmamablog.com/*
-*://chiro-seasontrend.com/*
 *://chiro-seasontrend.com/*
 *://choco-kurashi.com/*
 *://coffee-innovate.com/*
@@ -130,7 +126,6 @@
 *://free-humanlife23.com/*
 *://free-workstyle.com/*
 *://friday.kodansha.co.jp/*
-*://friday.kodansha.co.jp/*
 *://funwayroad.com/*
 *://future-sparkling.com/*
 *://galaxydesign.site/*
@@ -158,9 +153,6 @@
 *://happiness-of-life.com/*
 *://happy-days777.com/*
 *://happy-drops.site/*
-*://happy-freeeeee77.com/*
-*://happy-freeeeee77.com/*
-*://happy-freeeeee77.com/*
 *://happy-freeeeee77.com/*
 *://happy-mama-design.net/*
 *://happy-mariring.com/*
@@ -214,8 +206,6 @@
 *://jimmys-room.com/*
 *://joseiana.com/*
 *://joshi-spa.jp/*
-*://joshi-spa.jp/*
-*://joshi-spa.jp/*
 *://journallimited.com/*
 *://jufusion.com/*
 *://junabroadinfo.com/*
@@ -223,7 +213,6 @@
 *://kaigaiceleb.com/*
 *://kaigo-kagami.com/*
 *://kaikumikodaisuki.com/*
-*://kaito-car.com/*
 *://kaito-car.com/*
 *://kajjfawjagr.lfhfdfiehgg.com/*
 *://kan8oskar.com/*
@@ -268,7 +257,6 @@
 *://labopick.com/*
 *://lalirondalla.com/*
 *://lancers.work/*
-*://lancers.work/*
 *://landfaller.net/*
 *://lanikainahele.com/*
 *://left.stlukesglastonbury.org/*
@@ -298,12 +286,10 @@
 *://mankaikana.com/*
 *://mapimark.com/*
 *://mariokart.antenam.jp/*
-*://mariokart.antenam.jp/*
 *://marog01.com/*
 *://maroup.net/*
 *://marucure-picks.com/*
 *://materials-edge.net/*
-*://matomate.jp/*
 *://matomate.jp/*
 *://matome.naver.jp/*
 *://media-milk.com/*
@@ -311,7 +297,6 @@
 *://megunews.com/*
 *://meguppechan.com/*
 *://memorylane-media.com/*
-*://mh-r.more-gamer.com/*
 *://mh-r.more-gamer.com/*
 *://miaotenten.com/*
 *://miiolo.com/*
@@ -339,7 +324,6 @@
 *://moya-trend.com/*
 *://mt-j.info/*
 *://mtmx.jp/*
-*://mtmx.jp/*
 *://murajyuku.com/*
 *://mwphglch.org/*
 *://my-own-pace.com/*
@@ -364,7 +348,6 @@
 *://netacheck.com/*
 *://netatori.com/*
 *://netdeuwasano.com/*
-*://newmatosoku.com/*
 *://newmatosoku.com/*
 *://newneta.work/*
 *://news-news-news.net/*
@@ -391,7 +374,6 @@
 *://nuinuhou.com/*
 *://nusa-bali.com/*
 *://nyanpararism.xyz/*
-*://o-kaminews.com/*
 *://o-kaminews.com/*
 *://oceanmemo.com/*
 *://oishiimono-daisuki-hokusetsu.com/*
@@ -459,8 +441,6 @@
 *://ryota0814.com/*
 *://sa-ta-mi.com/*
 *://sabucaru.com/*
-*://sabucaru.com/*
-*://sabucaru.com/*
 *://saeriho.com/*
 *://sai2.info/*
 *://saku-saku-a.com/*
@@ -499,13 +479,10 @@
 *://suki-kira.com/*
 *://sumaholife.biz/*
 *://summer-century.com/*
-*://summer-century.com/*
-*://summer-century.com/*
 *://sunshine4424.com/*
 *://suntoranosuke.com/*
 *://syotiku9910.com/*
 *://syufunotie.com/*
-*://t.co/*
 *://t.co/*
 *://ta-see.com/*
 *://taakkk.com/*
@@ -528,14 +505,12 @@
 *://topigoo.com/*
 *://topitane.net/*
 *://torasan1.com/*
-*://torasan1.com/*
 *://toreosa.green/*
 *://toretateblog.com/*
 *://traditionaliconography.com/*
 *://tremaindkon.net/*
 *://trend-express.net/*
 *://trend-hoyahoya.com/*
-*://trend-journal.online/*
 *://trend-journal.online/*
 *://trend-music.com/*
 *://trend-passion-life.com/*
