@@ -20,7 +20,6 @@
 *://anogate.jp/*
 *://anohino-topic.com/*
 *://anohito.xyz/*
-*://anond.hatelabo.jp/*
 *://anttest.warotamaker.com/*
 *://aoiro5.com/*
 *://aokiin.com/*
@@ -40,7 +39,6 @@
 *://az-knowledge.com/*
 *://azukimama.com/*
 *://b-and-s.info/*
-*://b.hatena.ne.jp/*
 *://bad-labo.com/*
 *://badvugum.com/*
 *://bakusokunews.com/*
@@ -87,7 +85,6 @@
 *://decathlon.tivertongreen.org/*
 *://decopachi.com/*
 *://dibablog.net/*
-*://djtube.jp/*
 *://dolomitilive.net/*
 *://dorama-netabare.com/*
 *://dougalove2.com/*
@@ -125,7 +122,6 @@
 *://free-and-natural.com/*
 *://free-humanlife23.com/*
 *://free-workstyle.com/*
-*://friday.kodansha.co.jp/*
 *://funwayroad.com/*
 *://future-sparkling.com/*
 *://galaxydesign.site/*
@@ -140,9 +136,7 @@
 *://gomachannel.net/*
 *://goodfeeilng102.com/*
 *://gourmet-park.site/*
-*://grapee.jp/*
 *://gruzovoe-taksi.com/*
-*://gunosy.com/*
 *://gurigetfree.com/*
 *://gvonne.com/*
 *://hageiwashi.com/*
@@ -205,7 +199,6 @@
 *://jijimedia.com/*
 *://jimmys-room.com/*
 *://joseiana.com/*
-*://joshi-spa.jp/*
 *://journallimited.com/*
 *://jufusion.com/*
 *://junabroadinfo.com/*
@@ -291,7 +284,6 @@
 *://marucure-picks.com/*
 *://materials-edge.net/*
 *://matomate.jp/*
-*://matome.naver.jp/*
 *://media-milk.com/*
 *://media.yamatop.com/*
 *://megunews.com/*
@@ -351,10 +343,7 @@
 *://newmatosoku.com/*
 *://newneta.work/*
 *://news-news-news.net/*
-*://news.goo.ne.jp/*
-*://news.merumo.ne.jp/*
 *://newsfantv.com/*
-*://newspicks.com/*
 *://newstora.com/*
 *://next-infonews.com/*
 *://nicotubers.com/*
@@ -367,7 +356,6 @@
 *://nomadstarbucks.com/*
 *://norisuke-world.com/*
 *://nostalghia11.com/*
-*://note.com/*
 *://notsu08.com/*
 *://nou-kick-mma.com/*
 *://nsl-enter.com/*
@@ -483,7 +471,6 @@
 *://suntoranosuke.com/*
 *://syotiku9910.com/*
 *://syufunotie.com/*
-*://t.co/*
 *://ta-see.com/*
 *://taakkk.com/*
 *://takekonoblog.com/*
@@ -570,9 +557,6 @@
 *://www.ncfwem.co/*
 *://www.onedrop-cafe.com/*
 *://www.pimmsofficial.com/*
-*://www.pinterest.ca/*
-*://www.pinterest.de/*
-*://www.pinterest.jp/*
 *://www.planetpixmedia.com/*
 *://www.promage.co.jp/*
 *://www.repo-news.com/*
@@ -620,7 +604,6 @@
 *://youtuber-note.com/*
 *://youtuber-world-v.com/*
 *://youtuberpedia.com/*
-*://ytranking.net/*
 *://yubikitasu.org/*
 *://yukawanet.com/*
 *://yuki0830.com/*
