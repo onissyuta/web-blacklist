@@ -232,7 +232,6 @@
 *://gossip1.net/*
 *://gossipanything.com/*
 *://gourmet-park.site/*
-*://great.bex.jp/*
 *://gruzovoe-taksi.com/*
 *://gurigetfree.com/*
 *://guriguri.xyz/*
