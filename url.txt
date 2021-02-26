@@ -25,9 +25,9 @@
 *://alpaca1115.xyz/*
 *://alrescha.work/*
 *://amaitime.com/*
-*://ameblo.jp/direscare//*
-*://ameblo.jp/moju0304//*
-*://ameblo.jp/unarigoe//*
+*://ameblo.jp/direscare/*
+*://ameblo.jp/moju0304/*
+*://ameblo.jp/unarigoe/*
 *://anincline.com/*
 *://ankoron.com/*
 *://annneme.net/*
@@ -87,7 +87,7 @@
 *://blog.livedoor.jp/karamato/*
 *://blog.livedoor.jp/love120331/*
 *://blog.livedoor.jp/mahjongch/*
-*://blog.livedoor.jp/nandemonyuusu//*
+*://blog.livedoor.jp/nandemonyuusu/*
 *://blog.livedoor.jp/news23vip/*
 *://blog.livedoor.jp/nwknews/*
 *://blog.livedoor.jp/pocketcamp/*
