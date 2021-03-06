@@ -2,7 +2,6 @@
 *://1000mg.jp/*
 *://1917-movie.jp/*
 *://1yomeblo.com/*
-*://2chcopipe.com/*
 *://36kirakira.com/*
 *://38hana.com/*
 *://55kengo.com/*
@@ -114,8 +113,6 @@
 *://celebritymn.com/*
 *://celeby-media.net/*
 *://changcoroom.com/*
-*://chantome-2ch.doorblog.jp/*
-*://chaos2ch.com/*
 *://cheetah-sokuho.com/*
 *://chekko-8692.com/*
 *://chelra-note.com/*
@@ -205,9 +202,7 @@
 *://futamato.blog.jp/*
 *://future-sparkling.com/*
 *://fuwafuwam.com/*
-*://gahalog.2chblog.jp/*
 *://galaxydesign.site/*
-*://gamingmatome1.blog.jp/*
 *://ganbarinote.net/*
 *://ganbariyasan.com/*
 *://geino-taro.com/*
@@ -222,7 +217,6 @@
 *://gi-o.com/*
 *://girlschannel.net/*
 *://girlshour.net/*
-*://girlsvip-matome.com/*
 *://girlynews.net/*
 *://glasses.daiiblog.com/*
 *://golfgimon.info/*
@@ -271,7 +265,6 @@
 *://hitoshitorendo.blog.ss-blog.jp/*
 *://hituzinokegari.com/*
 *://ho4ta3.com/*
-*://hoge5ch.info/*
 *://holakikou.com/*
 *://homeparty-select.com/*
 *://honjitu.net/*
@@ -282,7 +275,6 @@
 *://idolfan.xsrv.jp/*
 *://idol-network.com/*
 *://iineshinaide.jugem.jp/*
-*://ikinuki2ch.blog.jp/*
 *://ikuji-funtouki.com/*
 *://ikumen-smile.com/*
 *://ima-coco369.com/*
@@ -350,11 +342,9 @@
 *://kininaru-journal.info/*
 *://kininarune.com/*
 *://kininarunoki.com/*
-*://kininatta2chmatome.doorblog.jp/*
 *://kinsanblog.com/*
 *://kiragamiteru.com/*
 *://kirari-n.com/*
-*://kiru2ch.com/*
 *://kisetsuneta.info/*
 *://kitene.jp/*
 *://kiyo0406.com/*
@@ -393,7 +383,6 @@
 *://libao1031.com/*
 *://librairiepassages.com/*
 *://librosdelsilencio.com/*
-*://lifehack2ch.livedoor.biz/*
 *://life-hacking.net/*
 *://lifenews-media.com/*
 *://lifepages.jp/*
@@ -428,12 +417,6 @@
 *://masamurai.com/*
 *://materials-edge.net/*
 *://matomate.jp/*
-*://matomeblade.com/*
-*://matomedane.jp/*
-*://matomeru1.livedoor.blog/*
-*://matometanews.com/*
-*://matometrend.net/*
-*://matome-yomu.hatenablog.com/*
 *://mayuponstyle.com/*
 *://media.yamatop.com/*
 *://media-milk.com/*
@@ -505,12 +488,10 @@
 *://newmatosoku.com/*
 *://newneta.work/*
 *://newnews36.com/*
-*://news.2chblog.jp/*
 *://news4vip.livedoor.biz/*
 *://news7-web.com/*
 *://newsfantv.com/*
 *://news-japan365.com/*
-*://newsmatomedia.com/*
 *://news-news-news.net/*
 *://newsteam.livedoor.biz/*
 *://newsthegeino.blog.fc2.com/*
@@ -560,7 +541,6 @@
 *://oreno-trend.biz/*
 *://oricoma.com/*
 *://orusoku.com/*
-*://oryouri.2chblog.jp/*
 *://osarai-media.net/*
 *://otameshivip.com/*
 *://otyobolife.com/*
@@ -604,7 +584,6 @@
 *://quickforms.net/*
 *://quick-news.site/*
 *://r40quest.com/*
-*://rabitsokuhou.2chblog.jp/*
 *://raifuappu.com/*
 *://rainmakerofnews.com/*
 *://ranpunosei.com/*
@@ -737,7 +716,6 @@
 *://torendosokuhou.com/*
 *://toreosa.green/*
 *://toretateblog.com/*
-*://toua2chdqn.livedoor.blog/*
 *://toushichannel.net/*
 *://toyota-phv.jp/*
 *://traditionaliconography.com/*
@@ -806,7 +784,6 @@
 *://www.2monkeys.jp/*
 *://www.80s90s-songs.fun/*
 *://www.agronet.jp/*
-*://www.akb48matomemory.com/*
 *://www.akiko-no-blog.com/*
 *://www.canoviano.net/*
 *://www.cfp-offset.jp/*
@@ -831,7 +808,6 @@
 *://www.lvqbf.co/*
 *://www.mine-3m.com/*
 *://www.money-press.info/*
-*://www.nandemoomatome.com/*
 *://www.negisoku.com/*
 *://www.news30over.com/*
 *://www.onedrop-cafe.com/*
