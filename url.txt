@@ -123,6 +123,7 @@
 *://code.i-harness.com/*
 *://coffee-innovate.com/*
 *://comaco325.com/*
+*://comisoku.com/*
 *://continue-healthy.com/*
 *://cororotan.com/*
 *://crx7601.com/*
@@ -353,6 +354,7 @@
 *://kodomotoasobou.com/*
 *://koepro.net/*
 *://koimousagi.com/*
+*://kokopyon.net/*
 *://koku-byakunews.com/*
 *://komatsuryo.com/*
 *://konoyubitomare.jp/*
@@ -769,6 +771,7 @@
 *://wadainomori.net/*
 *://wadai-pocket.com/*
 *://wagonnavi.click/*
+*://wanisokuhou.com/*
 *://waon-guam.com/*
 *://wapri.site/*
 *://waranote.livedoor.biz/*
